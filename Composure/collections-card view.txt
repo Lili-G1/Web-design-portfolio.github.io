@@ -1,0 +1,41 @@
+.collection-card{
+    display:inline-block;
+    border-radius:10px;
+    padding:15px 25px;
+    box-sizing:border-box;
+    cursor: pointer;
+    margin:10px 15px;
+    background-position:center;
+    background-size: cover;
+    transition: transform 0.5s;
+    flex-basis: auto;
+}
+.collection-card:hover{
+    transform:translateY(-10px);
+}
+.categories{
+    margin: 80px 0;
+}
+
+
+<section id="collections ">
+    <div  class="categories content">
+        <div class="small-container">
+            <div class="box">
+            <h2>~Collections~</h2>
+            <p>Check out Composure Designs latest collections! </p>
+            </div>
+        <div class= "row-1">
+            <div class="col-1 collection-card">
+                <img src="C_img/IMG_2124.PNG" alt="pantastics" height="331px" >
+            </div>
+             <div class="col-1 collection-card">
+                <img src="C_img/BGDC2405.jpg" alt="dothraki back">
+            </div>
+            <div class="col-1 collection-card">
+                <img src="C_img/vestsmile.JPG" alt="vest with smile">
+            </div>
+        </div>
+        </div>    
+    </div>
+   </section>

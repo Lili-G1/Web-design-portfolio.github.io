@@ -1,0 +1,95 @@
+<!--Origin-->
+    <section id="origin" class="content backdrop">
+        <div class="small-conatiner">
+            <h3 class="title">Origin</h3>
+        <div class="row">
+        <div class="col-3">
+            <div class="card card1">
+                <h5>jacket</h5>  
+                 <p>$50</p>
+            </div>
+            <div class="ratings">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star-o" aria-hidden="true"></i>
+                </div>
+            <div class="col-3">
+            <div class="card card2">
+                <h5>jacket</h5>
+                <p>something about price here </p>
+            </div>
+            </div>
+            <div class="col-3">
+              <div class="card card3">
+                <h5>jacket</h5>
+                <p>something about price here </p>
+            </div>
+            </div>
+        </div>
+     </div> 
+    </div>
+    </section>
+
+        <!--Travesura-->
+    <section id="Travesura" class=" content backdrop">
+        <div class="small-conatiner">
+         <h3 class="title"> Travesura </h3>
+        <div class="row">
+        <div class="col-4">
+            <div class="card card6">
+                <h5>jacket</h5>
+                <p> </p>
+            </div>
+            <div class="card card7">
+                <h5>jacket</h5>
+                <p>something about price here </p>
+            </div>
+              <div class="card card8">
+                <h5>jacket</h5>
+                <p>something about price here </p>
+            </div>
+             <div class="card card9">
+                <h5>jacket</h5>
+                <p>something about price here </p>
+            </div>
+             <div class="card card10">
+                <h5>jacket</h5>
+                <p>something about price here </p>
+            </div>
+        </div>
+        </div> 
+    </div>
+</section>
+
+    <!--The Man-->
+    <section id="theman" class=" content backdrop">
+        <div class="small-conatiner">
+        <h3 class="title"> The Man</h3>
+        <div class="row">
+        <div class="col-5">
+            <div class="card card6">
+                <h5>jacket</h5>
+                <p> </p>
+            </div>
+            <div class="card card7">
+                <h5>jacket</h5>
+                <p>something about price here </p>
+            </div>
+              <div class="card card8">
+                <h5>jacket</h5>
+                <p>something about price here </p>
+            </div>
+             <div class="card card9">
+                <h5>jacket</h5>
+                <p>something about price here </p>
+            </div>
+             <div class="card card10">
+                <h5>jacket</h5>
+                <p>something about price here </p>
+            </div>
+        </div>
+        </div> 
+    </div>
+</section>
